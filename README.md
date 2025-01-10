@@ -16,6 +16,7 @@ I'm currently working on [Institution Management System](https://github.com/saha
 ## 👩‍💻💻 GitHub Stats
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![Kalpani-Ariyawansha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahan-chinthaka&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-chinthaka&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=sahan-chinthaka&color=green)
 
