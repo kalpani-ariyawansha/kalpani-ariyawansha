@@ -16,7 +16,7 @@ I'm currently working on [Institution Management System](https://github.com/saha
 ## 👩‍💻💻 GitHub Stats
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)
 
 
 
