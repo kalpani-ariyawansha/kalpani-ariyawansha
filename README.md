@@ -16,7 +16,10 @@ I'm currently working on [Institution Management System](https://github.com/saha
 ## 👩‍💻💻 GitHub Stats
 
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)
+- ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)
+- ![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourrepository/CI?label=build&style=for-the-badge)
+- ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+- ![Top Language](https://img.shields.io/github/languages/top/yourusername/yourrepository?style=plastic)
 
 
 
