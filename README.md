@@ -14,7 +14,7 @@ I'm currently working on [Institution Management System](https://github.com/saha
 - LinkedIn: [Kalpani](https://www.linkedin.com/in/kalpani-ariyawansha/)
 
 ##👩‍💻💻 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/kalpani-ariyawansha/kalpani-ariyawansha/&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
 
 
 
