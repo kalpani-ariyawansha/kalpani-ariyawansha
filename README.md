@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm Kalpani, a software engineering student with a passion for project management. I enjoy learning new technologies and contributing to open-source projects.
+## 🚀 Skills
+- Java, Python, Scala, SQL
+- Agile, Scrum, Jira, Trello
+- Web development: HTML, CSS, JavaScript
+- MongoDB, MySQL
 
-<!--
-**kalpani-ariyawansha/kalpani-ariyawansha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Current Project
+I'm currently working on [Institution Management System](https://github.com/sahan-chinthaka/vishwa-institute.git) for Vishwa Higher Education Center in Balangoda.
 
-Here are some ideas to get you started:
+## 📫 Reach me
+- Email: [skalpania@gmail.com](mailto:skalpania@gmail.com)
+- LinkedIn: [Kalpani](https://www.linkedin.com/in/kalpani-ariyawansha/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##👩‍💻💻 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/kalpani-ariyawansha/kalpani-ariyawansha/&show_icons=true&hide_title=true)
+
+
+
